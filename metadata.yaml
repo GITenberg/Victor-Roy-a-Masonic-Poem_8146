@@ -1,0 +1,24 @@
+_repo: Victor-Roy-a-Masonic-Poem_8146
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wilkins, Harriet Annie
+    birthdate: 1829
+    deathdate: 1888
+    gutenberg_agent_id: '2668'
+    url: http://www.gutenberg.org/2009/agents/2668
+description: ''
+gutenberg_issued: '2005-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8146'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Canadian poetry -- 19th century'
+- !lcc 'PS'
+- GITenberg
+title: Victor Roy, a Masonic Poem
+url: http://www.gutenberg.org/ebooks/8146
